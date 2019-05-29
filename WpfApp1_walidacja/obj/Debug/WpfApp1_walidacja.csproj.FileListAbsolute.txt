@@ -1,0 +1,15 @@
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\bin\Debug\WpfApp1_walidacja.exe.config
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\bin\Debug\WpfApp1_walidacja.exe
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\bin\Debug\WpfApp1_walidacja.pdb
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.csprojAssemblyReference.cache
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\MainWindow.g.cs
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\App.g.cs
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja_MarkupCompile.cache
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja_MarkupCompile.lref
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\MainWindow.baml
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.g.resources
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.Properties.Resources.resources
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.csproj.GenerateResource.cache
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.csproj.CoreCompileInputs.cache
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.exe
+E:\Walidacja\WpfApp1_walidacja\WpfApp1_walidacja\obj\Debug\WpfApp1_walidacja.pdb
